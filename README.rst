@@ -1,7 +1,7 @@
-buildout.vieesm
-===============
+buildout.vieesem
+================
 
-Buildout for VIEESM website
+Buildout for VIEESEM website
 
 
 Credits
@@ -13,4 +13,4 @@ This package was developed by `Affinitic team <https://github/affinitic>`_.
    :alt: Affinitic website
    :target: http://www.affinitic.be
 
-``buildout.vieesm`` is licensed under GNU General Public License, version 2.
+``buildout.vieesem`` is licensed under GNU General Public License, version 2.
